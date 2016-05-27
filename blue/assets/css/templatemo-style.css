@@ -276,7 +276,7 @@ hr {
   width: 23%;
   height: 100%;
   position: fixed;
-  background-color: #5f6d7e;
+  background-color: #6F5EFF;/*4DAD4A#5f6d7e;*/
   color: white;
   overflow-y: hidden;
 }
@@ -299,7 +299,7 @@ hr {
   border-radius: 75px;
   overflow: hidden;
   margin-bottom: 20px;
-}
+  }
 .profile-image img {
   width: 100%;
 }
