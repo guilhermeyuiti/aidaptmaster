@@ -222,18 +222,18 @@ h1, h2, h3, h4, h5 {
 .main-content,
 .banner-bg {
   float: right;
-  width: 77%;
+  width: 79%;
 }
 @media screen and (max-width: 1290px) {
   .main-content,
   .banner-bg {
-    width: 70%;
+    width: 79%;
   }
 }
 @media screen and (max-width: 992px) {
   .main-content,
   .banner-bg {
-    width: 100%;
+    width: 79%;
   }
 }
 
@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5 {
   }
 }
 
-h4.widget-title {
+h4.col-md-12-title {
   font-size: 16px;
   font-family: 'robotobold';
   text-transform: uppercase;
@@ -273,17 +273,17 @@ hr {
 -------------------------------------------------------- */
 .sidebar-menu {
   float: left;
-  width: 23%;
+  width: 21%;
   height: 100%;
   position: fixed;
   background-color: #6F5EFF;/*4DAD4A#5f6d7e;*/
   color: white;
   overflow-y: hidden;
 }
-@media screen and (max-width: 1290px) {
+@media screen and (max-width: 1190px) {
   .sidebar-menu {
     overflow-y: scroll;
-    width: 30%;
+    width: 21%;
   }
 }
 
@@ -343,10 +343,10 @@ h3.profile-title {
 }
 .social-icons li {
   display: inline-block;
-  margin-right: 20px;
+  margin-right: 60px;
 }
 .social-icons a {
-  font-size: 18px;
+  font-size: 30px;
   color: white;
 }
 .social-icons a:hover {
