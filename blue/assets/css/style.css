@@ -295,7 +295,7 @@ h2:after {
     ===================================*/
 #about {
     padding-bottom: 100px;
-    background-color: #fff;
+    background-color: #5bc0de; /*#fff;*/
     padding-top: 30px;
 }
 
