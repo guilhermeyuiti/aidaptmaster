@@ -31,11 +31,12 @@ http://www.templatemo.com/tm-441-volton
  1. Reset
 -------------------------------------------------------- */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  vertical-align: baseline;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	text-align: justify;
 }
 
 .blue {
@@ -198,7 +199,9 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5 {
-  color: #555555;
+	color: #373737;
+	font-size: large;
+	text-align: justify;
 }
 
 ::-webkit-input-placeholder {
@@ -288,7 +291,8 @@ hr {
 }
 
 .top-section {
-  padding: 40px;
+	padding: 40px;
+	text-align: center;
 }
 
 .profile-image {
@@ -556,8 +560,9 @@ h3.profile-title {
  5. Footer
 -------------------------------------------------------- */
 #footer p.copyright-text {
-  margin: 40px 0;
-  font-size: 13px;
+	margin: 40px 0;
+	font-size: 13px;
+	text-align: center;
 }
 #footer p.copyright-text a {
   color: #5f6d7e;
